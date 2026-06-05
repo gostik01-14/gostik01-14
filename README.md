@@ -1,17 +1,44 @@
-### Привет! Я начинающий Backend-разработчик👋
+<p align="center">
+  <h1>Привет! Я начинающий Backend-разработчик👋</h1>
+</p>
 
-<!--
-**gostik01-14/gostik01-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,nodejs,windows,sqlite,npm,js,py,html,github,git,discord,css" width="85%"/>
+</div>
 
-Here are some ideas to get you started:
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats-fast.vercel.app/api?username=gostik01-14&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;locale=ru&amp;card_width=620&amp;bg_color=00000000&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=58A6FF&amp;ring_color=58A6FF"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-fast.vercel.app/api?username=gostik01-14&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;locale=ru&amp;card_width=620&amp;bg_color=00000000&amp;title_color=0969DA&amp;text_color=24292F&amp;icon_color=0969DA&amp;ring_color=0969DA"
+      media="(prefers-color-scheme: light)"
+    />
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api?username=gostik01-14&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;locale=ru&amp;card_width=620&amp;bg_color=00000000&amp;title_color=0969DA&amp;text_color=24292F&amp;icon_color=0969DA&amp;ring_color=0969DA"
+      width="620"
+      alt="GitHub stats"
+    />
+  </picture>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gostik01-14&show_icons=true&theme=radical)
+
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gostik01-14&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;card_width=550&amp;custom_title=Самые%20используемые%20языки&amp;bg_color=00000000&amp;title_color=58A6FF&amp;text_color=C9D1D9"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gostik01-14&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;card_width=550&amp;custom_title=Самые%20используемые%20языки&amp;bg_color=00000000&amp;title_color=0969DA&amp;text_color=24292F"
+      media="(prefers-color-scheme: light)"
+    />
+    <img
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gostik01-14&amp;layout=compact&amp;hide_border=true&amp;langs_count=8&amp;card_width=620&amp;custom_title=Самые%20используемые%20языки&amp;bg_color=00000000&amp;title_color=0969DA&amp;text_color=24292F"
+      width="620"
+      alt="Самые используемые языки"
+    />
+  </picture>
+</p>
